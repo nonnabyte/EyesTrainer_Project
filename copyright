@@ -1,0 +1,29 @@
+//the code below was originally written by Ahmad Shamshiri, and was modified for the VL53L1X sensor by the team
+
+/*
+ * file: M5Stack_VL53L0X
+ * Written by Ahmad Shamshiri on April 03, 2021 in Ontario, Canada
+ www.Robojax.com youTube http://youTube.com/robojaxTV
+ using Pololu VL53L0X library https://github.com/pololu/vl53l0x-arduino
+ * watch video instruction: https://youtu.be/6Js7CPe7Dwo
+ * Must watch two videos
+ * Introduction to M5Stack Core 2:https://youtu.be/zoDjT2_0M5g
+ * Introduction to VL53L0X: https://youtu.be/S2jaAQEv3Yo
+ *
+ * This code is "AS IS" without warranty or liability. Free to be used as long as you keep this note intact.* 
+ * This code has been download from Robojax.com
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see .
+  
+   URL: https://github.com/RobTillaart/HT16K33 
+*/
